@@ -25,6 +25,9 @@ nav {
     text-align: center;
     border-top: 2px solid #eee;
     border-bottom: 2px solid #eee;
+    position: sticky;
+    top: 0px;
+    background-color: white;
 }
 
 li {
@@ -47,7 +50,7 @@ ul {
     width: 700px;
     border-radius: 1%;
     background-color: white;
-    padding: 5em;
+    padding: 4%;
     margin: auto;
     box-shadow: 2px 2px 4px 2px gray;
     margin-bottom: 4%;
